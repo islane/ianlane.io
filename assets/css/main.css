@@ -272,8 +272,8 @@ a:after {
 	border-top: 5px solid;
 }
 
-.borderup-main {
-	border-top: 5px solid #f05a28;
+.bordermain {
+	border-bottom: 5px solid #f05a28;
 }
 
 /* ==========================================================================
